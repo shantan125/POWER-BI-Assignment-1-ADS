@@ -1,0 +1,31 @@
+OrderID,Date,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,Region,PaymentMethod,Discount,ShippingMethod,ProductRating,CustomerFeedback,CustomerSatisfactionScore
+1001,03-01-2020,John Doe,Widget A,Electronics,50,10.99,549.5,North,Credit Card,0.05,Standard,4.5,Great product and fast delivery.,8.7
+1002,05-02-2020,Jane Smith,Widget B,Electronics,30,12.99,389.7,West,PayPal,0.1,Express,4.2,Good quality but shipping was slow.,7.9
+1003,08-03-2020,David Johnson,Widget A,Electronics,25,10.99,274.75,East,Check,0.02,Standard,4.8,Excellent product and service.,9.2
+1004,12-04-2020,Emily Brown,Widget C,Electronics,40,15.99,639.6,South,Credit Card,0.07,Express,4,"Product was okay, but expensive.",7.5
+1005,15-05-2020,Michael Lee,Widget A,Electronics,20,10.99,219.8,North,Cash,0.03,Standard,4.7,Very satisfied with the purchase.,8.9
+1006,18-06-2020,Susan Wilson,Widget B,Electronics,35,12.99,454.65,West,PayPal,0.05,Standard,4.4,Decent product and quick shipping.,8.2
+1007,20-07-2020,Robert Davis,Widget C,Electronics,15,15.99,239.85,East,Check,0.02,Express,3.9,Product quality could be better.,7
+1008,23-01-2021,Linda Clark,Widget A,Electronics,60,10.99,659.4,South,Wire Transfer,0.1,Express,4.6,Impressed with the product and delivery.,8.8
+1009,25-02-2021,James White,Widget B,Electronics,45,12.99,584.55,North,Cash,0.03,Standard,4.3,Good value for the price.,8.1
+1010,28-03-2021,Patricia Hall,Widget C,Electronics,28,15.99,447.72,West,PayPal,0.05,Standard,4.1,Satisfied with the purchase.,7.6
+1011,02-04-2021,William Harris,Widget A,Electronics,10,10.99,109.9,East,Check,0.01,Express,4.9,Excellent product quality.,9.4
+1012,05-02-2022,Karen Martin,Widget B,Electronics,22,12.99,285.78,South,Credit Card,0.07,Standard,4.2,"Good product, but shipping took a while.",7.8
+1013,08-02-2022,Richard Turner,Widget A,Electronics,16,10.99,175.84,North,Cash,0.02,Express,4.7,Fast and reliable service.,8.5
+1014,12-03-2022,Sarah Rodriguez,Widget C,Electronics,38,15.99,607.62,West,PayPal,0.05,Standard,4.4,Satisfied with the purchase.,8
+1015,15-04-2022,Charles Martinez,Widget B,Electronics,42,12.99,545.58,East,Check,0.03,Express,4.3,Good quality product.,7.7
+1016,18-05-2022,Donna Lewis,Widget A,Electronics,33,10.99,363.67,South,Credit Card,0.06,Standard,4.5,Great customer service.,8.6
+1017,20-06-2022,Thomas Jackson,Widget C,Electronics,19,15.99,303.81,North,Cash,0.03,Express,4,Product could be improved.,7.3
+1018,23-01-2023,Mary Adams,Widget A,Electronics,28,10.99,307.72,West,PayPal,0.04,Standard,4.6,Impressed with the quality.,8.7
+1019,25-02-2023,Christopher Hall,Widget B,Electronics,50,12.99,649.5,East,Check,0.07,Express,4.1,Overall a good experience.,7.6
+1020,28-03-2023,Carolyn Brown,Widget C,Electronics,12,15.99,191.88,South,Wire Transfer,0.02,Standard,4,Expensive for what it offers.,7
+1021,03-04-2023,Joseph Green,Widget A,Electronics,24,10.99,263.76,North,Cash,0.03,Express,4.7,Highly recommended.,8.9
+1022,05-05-2023,Amy Wilson,Widget B,Electronics,36,12.99,467.64,West,PayPal,0.05,Standard,4.4,Decent product for the price.,8.2
+1023,08-06-2023,Daniel Thompson,Widget C,Electronics,30,15.99,479.7,East,Credit Card,0.08,Express,4.2,"Good product, but pricey.",7.8
+1024,12-01-2024,Laura Wright,Widget A,Electronics,14,10.99,153.86,South,Check,0.02,Standard,4.8,Very satisfied with the purchase.,8.7
+1025,15-02-2024,Paul Anderson,Widget B,Electronics,18,12.99,233.82,North,Wire Transfer,0.03,Express,4.5,Great quality and service.,8.6
+1026,18-03-2024,Kimberly Harris,Widget A,Electronics,52,10.99,571.48,West,Cash,0.06,Standard,4.6,Impressed with the product.,8.8
+1027,20-04-2024,Mark Martinez,Widget C,Electronics,44,15.99,703.56,East,Credit Card,0.09,Express,4.4,Good overall experience.,8
+1028,23-05-2024,Deborah Johnson,Widget A,Electronics,8,10.99,87.92,South,PayPal,0.01,Standard,4.9,Excellent product and service.,9.4
+1029,25-01-2025,Steven Davis,Widget B,Electronics,60,12.99,779.4,North,Cash,0.04,Express,4.3,Satisfied with the purchase.,8.1
+1030,28-02-2025,Nancy Lewis,Widget C,Electronics,25,15.99,399.75,West,Check,0.05,Standard,4.6,Impressed with the product quality.,8.7
